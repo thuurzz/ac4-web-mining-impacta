@@ -19,4 +19,4 @@ Arthur Vinicius Santos Silva RA: 1903365
   python3 app.py
 ```
 
-Após, abra o navegador com o endereço mostrado no console. (exemplo: http://http://127.0.0.1:5000/)
+Após, abra o navegador com o endereço mostrado no console. (exemplo: http://127.0.0.1:5000/)
