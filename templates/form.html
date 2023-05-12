@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+  <form action="{{url_for('hello_word')}}" method="post">
+    <h1> Analisador de sentimentos!</h1>
+    <div style="width: 100%; overflow: hidden;">
+      <div style="width: 300px; float: left;">
+        <label for="fname">Digite sua opinião:</label>
+        <textarea id="user_input" name="fname" rows="4" cols="35"></textarea>
+      </div>
+    </div>
+    <div>
+      <input type="submit" id="submit" value="Analisar">
+    </div>
+  </form>
+</body>
+
+</html>
